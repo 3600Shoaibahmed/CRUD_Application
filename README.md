@@ -20,7 +20,7 @@ Postman
 1)Clone the repository:
 
 Copy code
-git clone https://github.com/yourusername/crud-java-application.git
+git clone https://github.com/yourusername/CRUD_Application.git
 cd crud-java-application
 
 
