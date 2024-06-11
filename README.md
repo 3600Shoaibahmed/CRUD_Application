@@ -20,8 +20,8 @@ Postman
 1)Clone the repository:
 
 Copy code
-git clone https://github.com/yourusername/CRUD_Application.git
-cd crud-java-application
+git clone https://github.com/3600Shoaibahmed/CRUD_Application.git
+cd CRUD_Application
 
 
 2)Install the dependencies:
